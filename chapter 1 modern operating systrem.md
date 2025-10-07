@@ -9,3 +9,14 @@ Beberapa komponen utama: Kernel, Shell, File System, Device Driver, dan System U
 
 ## Section 1.4 - Jenis Sistem Operasi
 Contoh: Windows, Linux, macOS, dan Android.
+## Section 1.5 - Evolusi Sistem Operasi
+Sistem operasi berevolusi dari batch processing ke time-sharing hingga sistem modern berbasis GUI.
+
+## Section 1.6 - Arsitektur Sistem Operasi
+Terdapat arsitektur monolitik, layered, microkernel, dan hybrid.
+
+## Section 1.7 - Fungsi Utama Sistem Operasi
+Mengatur CPU scheduling, memori, perangkat I/O, serta manajemen file.
+
+## Section 1.8 - Interaksi Pengguna
+Pengguna berinteraksi melalui CLI, GUI, atau sistem berbasis sentuhan.
