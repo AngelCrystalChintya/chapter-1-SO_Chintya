@@ -20,3 +20,14 @@ Mengatur CPU scheduling, memori, perangkat I/O, serta manajemen file.
 
 ## Section 1.8 - Interaksi Pengguna
 Pengguna berinteraksi melalui CLI, GUI, atau sistem berbasis sentuhan.
+## Section 1.9 - Keamanan Sistem Operasi
+Keamanan mencakup autentikasi, otorisasi, dan proteksi data.
+
+## Section 1.10 - Virtualisasi
+Virtualisasi memungkinkan menjalankan beberapa sistem operasi dalam satu mesin.
+
+## Section 1.11 - Tren Modern
+Tren saat ini meliputi sistem operasi mobile, cloud-based, dan embedded systems.
+
+## Section 1.12 - Kesimpulan
+Sistem operasi adalah fondasi penting dalam setiap perangkat komputasi modern.
